@@ -1,0 +1,172 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+
+/* first section of portfolio */
+
+.about{
+    padding-bottom: 150px;
+}
+
+.first-part{
+   
+}
+
+.hi-there{
+    color: #f85959;
+}
+
+.my-name{
+    font-family: 'Bree Serif', serif;
+
+    color: #2d6cdf;
+}
+
+h1{
+    font-size: 70px;
+}
+
+h2{
+   font-size: 50px;  
+   font-weight: bold;  
+   
+}
+
+p{
+    font-size: 20px;
+    padding-bottom: 20px;
+    color: rgb(65, 63, 63);
+}
+.my-profile{
+    width: 40%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 5%;
+}
+.my-profile img{
+    width: 100%;
+}
+
+.hire-me{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,  #f26d5b, #c03546);
+    padding: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10px;
+    color: whitesmoke;
+    font-weight: 700;
+}
+
+
+  /* about section */
+
+.about-me{
+    width: 40%;
+    float: right;
+    margin-right: 2%;
+    padding-right: 5%;
+    padding-top: 50px;
+   
+}
+.about-me img{
+    width: 100%;
+}
+
+.color{
+    color: #e9c629de;
+}
+
+.download-cv{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #ffd615, #ff9f68);
+    padding: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10px;
+    color:white;
+    font-weight: 700;
+}
+
+
+.Latest{
+    color:tomato;
+}
+.working-project{
+    color: #3c3753;
+}
+.latest-work{
+    font-family: 'Yanone Kaffeesatz', sans-serif; 
+    font-weight: 50;
+    text-align: center;
+    padding-top: 150px;
+}
+
+.work{
+    width: 30%;
+    float:left;
+    margin-left: 3%;
+    padding-top: 50px;
+}
+.work img{
+    width: 80%;
+}
+   
+/* .center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-top: 150px;
+} */
+ .box-text{
+    background-image: url(images/Group_33094_1.png);
+    background-repeat: no-repeat;
+    display: block;
+    margin-left: 23%;
+    width: 100%;
+    overflow: hidden;
+    background-size: 50%;
+    /* padding-top: 150px; */
+    
+}
+.text{
+    float: left;
+    margin-left: 20px;
+    padding-bottom: 150px; 
+}
+ #chat{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,  #f26d5b, #c03546);
+    padding: 8px;
+    color: whitesmoke;
+    font-weight: 500;
+    font-size: 10x; 
+    margin-left: 300px;
+    margin-top: 65px;
+}
+.inquiry{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 45px;
+    font-weight: 400;
+    margin-top: 60px;
+    margin-left: 50px;
+    color: whitesmoke;  
+}
+.contact{
+    font-size: 20px;
+    color: rgb(65, 63, 63);
+    margin-left: 70px;
+}
+.gmail{
+    text-decoration: none;
+    color: rgb(65, 63, 63);
+}
+footer p{
+    text-align: center;
+    font-size: 18px;
+}
